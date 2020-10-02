@@ -3,7 +3,3 @@ class Main {
     System.out.println("Vraj is very very cool");
   }
 }
-
-// git checkout master
-// git checkout [branch name] .
-// vraj is bad at smashkarts
