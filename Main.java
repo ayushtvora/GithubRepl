@@ -6,3 +6,4 @@ class Main {
 
 // git checkout master
 // git checkout [branch name] .
+// vraj is bad at smashkarts
